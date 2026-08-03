@@ -1,0 +1,24 @@
+/* Changes the background color of the inverse navbar */
+.navbar-inverse {
+  background-color: #336699; /* Replace with your primary color */
+  border-color: #012169;     /* Replace with a slightly darker color for the border */
+}
+
+/* Changes the color of the text links */
+.navbar-inverse .navbar-nav > li > a {
+  color: #ffffff; 
+}
+
+/* Changes the text color when you hover over a link */
+.navbar-inverse .navbar-nav > li > a:hover {
+  color: #eeeeee;
+}
+
+
+/* Changes the background and text color of the ACTIVE button (like Home) */
+.navbar-inverse .navbar-nav > .active > a, 
+.navbar-inverse .navbar-nav > .active > a:hover, 
+.navbar-inverse .navbar-nav > .active > a:focus {
+  background-color: #012169; /* Replace with a color slightly darker than your main navbar */
+  color: #ffffff;            /* The text color for the active button */
+}

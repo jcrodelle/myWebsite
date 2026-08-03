@@ -1,0 +1,79 @@
+---
+title: "Research Projects"
+output: html_document
+---
+
+Below is an overview of the active research projects in my group. Click on any project to learn more about our modeling approaches and recent findings.
+
+<br>
+
+```{=html}
+<style>
+.project-tile {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  transition: transform 0.2s, box-shadow 0.2s;
+  background-color: #fafafa;
+  height: 100%;
+  cursor: pointer;
+  text-decoration: none !important;
+  color: #333 !important;
+  display: block;
+}
+
+.project-tile:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  background-color: #ffffff;
+}
+
+.project-tile h3 {
+  margin-top: 15px;
+  font-size: 1.3em;
+  color: #00539B;
+  font-weight: bold;
+}
+
+.tile-image {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.row-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+</style>
+
+<div class="row row-flex">
+  
+<div class="col-md-4" style="margin-bottom: 20px;">
+<a href="plasticityProjects.html" class="project-tile">
+<img src="https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQdYwfToiHRKBPXNsgeM-JKjhVeaf6l7DsirAqQHQvHEzcppbHpWGOh3I1XxfbedQYEAHN9pl-JWoB2aiY" class="tile-image" alt="Neural Network Plasticity">
+<h3>Synaptic Plasticity </h3>
+<p>Exploring spontaneous activity waves, synaptic plasticity, and cortical development using computational models.</p>
+</a>
+</div>
+
+<div class="col-md-4" style="margin-bottom: 20px;">
+<a href="painProjects.html" class="project-tile">
+<img src="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSTiIo9ytbyGuXh7bSZ41G1rCCZnICoVqSBiiR979U8tkgI8LBun1WwmbHMrggv9BX8jRYHqihSQKkWYQM" class="tile-image" alt="Spinal Cord Stimulation Pathways">
+<h3>Pain Processing Dynamics</h3>
+<p>Modeling spinal cord dynamics, allodynia, and the circadian and homeostatic modulation of human pain sensitivity.</p>
+</a>
+</div>
+
+<div class="col-md-4" style="margin-bottom: 20px;">
+<a href="applied-modeling.html" class="project-tile">
+<img src="https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSlzHGMjdB1aHjL8qSk0fVcw22cvf_DEjws4WWm5fCfjUpLnuGLfJXpOL-wPhS0hVSIpe-wfuDyiQXCclM" class="tile-image" alt="Neurodegeneration Concept">
+<h3>Neurodegenerative Disease </h3>
+<p>Investigating mechanisms underlying neuronal degeneration due to pathological proteins inside the neurons.</p>
+</a>
+</div>
+
+</div>
+```

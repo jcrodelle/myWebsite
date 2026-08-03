@@ -1,0 +1,24 @@
+name: "Mywebsite"
+title: "Jen Crodelle"
+type: inverse
+left:
+  - text: "Home"
+    icon: fa-home
+    href: index.html
+  # - text: "About me"
+  #   menu:
+  #   href: ./aboutMe.html
+  - text: "Research"
+    href: researchPage.html
+  - text: "CV"          # <-- New tab name
+    icon: fa-file-pdf-o    # <-- Optional: adds a neat PDF icon
+    href: Jennifer_Crodelle_CV_2026.pdf        # <-- Points directly to your PDF file
+right:
+  - icon: fab fa-orcid fa-lg             # <-- ORCID icon
+    href: https://orcid.org/0000-0002-3402-4372  # <-- Replace with your ORCID ID
+  - icon: fa-github fa-lg
+    href: https://github.com/githubusername/mywebsite
+  - icon: fab fa-linkedin fa-lg             # <-- LinkedIn icon
+    href: https://www.linkedin.com/in/jennifer-crodelle-b8602022/ # <-- Replace with your L
+
+    

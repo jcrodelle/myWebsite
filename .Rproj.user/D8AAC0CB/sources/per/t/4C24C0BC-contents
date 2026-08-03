@@ -1,0 +1,33 @@
+---
+title: "Projects in pain processing and therapeutic treatments"
+output: html_document
+#date: "2026-08-01"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+The processing of pain involves many neural circuits including those in the spinal cord, brainstem, thalamus, and cortex. When a nociceptive (painful) stimulus is applied, sensory neurons transmit the signal from the skin to the spinal cord. Populations of neurons in the spinal cord further process this signal before transmitting up to the cortex. This is joint work with Profs. <a href="https://sites.lsa.umich.edu/vbooth/" target="_blank">Victoria Booth</a> and  <a href="https://neuromodulation.bme.umich.edu" target="_blank">Scottt Lempka</a>. On this page, I will describe three directions in which we have applied, or are in the process of applying, the spinal cord model to further understand mechanisms underlying pain processing in humans.
+
+<!-- ## 1. Interindividual variability in efficacy of SCS -->
+
+
+
+<!-- ## 2. Mechanisms of chronic pain -->
+
+
+
+## Daily rhythmicity of pain sensitivity 
+
+<img src="images/circadian_pain.png" style="float: right; width: 60%; margin-left: 20px; margin-bottom: 20px;"> 
+
+Circadian rhythms underlie many biological processes, including the regulation of immune cells that contribute to the processing of pain. As a result, pain sensitivity exhibits a 24-hour rhythm, with the highest sensitivity occurring during the middle of the night and lowest sensitivity occurring in the middle of the afternoon. In neuropathic patients, those who experience chronic pain usually accompanied by damaged nerve tissue, the sensitivity of pain follows a rhythm of opposite phase, with a peak occurring in the mid-afternoon. Unfortunately, mechanisms underlying this shift in rhythmicity for neuropathic pain patients remain unclear, leading to a need for further investigations into circadian modulation of pain processing.
+
+
+Related articles: 
+
+ * <a href="https://doi.org/10.1371/journal.pcbi.1007106" target="_blank">Modeling the daily rhythm of human pain processing in the dorsal horn. PLOS Computational Biology</a>.
+ 
+ * <a href="https://doi.org/10.3389/fnins.2023.1166203" target="_blank">Modeling homeostatic and circadian modulation of human pain sensitivity. Frontiers in Computational Neuroscience</a>.
+
+
