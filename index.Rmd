@@ -53,20 +53,20 @@ When not working on mathematical models, I enjoy reading and exploring the outdo
 ## Selected Publications
 
 
-* **Crodelle J**, Dai W.P. <a href="https://doi.org/10.1103/qr68-9vy9" target="_blank">Uncovering potential effects of spontaneous waves on synaptic development: The visual system as a model</a>. *PRX Life*, 4, 013022 (2026).
+* **Crodelle J.**, Dai W.P. <a href="https://doi.org/10.1103/qr68-9vy9" target="_blank">Uncovering potential effects of spontaneous waves on synaptic development: The visual system as a model</a>. *PRX Life*, 4, 013022 (2026).
 
-* Ginsberg AG, Lempka SF, Duan B, Booth V, **Crodelle J**. <a href="https://doi.org/10.1371/journal.pcbi.1012234" target="_blank">Mechanisms for dysregulation of excitatory-inhibitory balance underlying allodynia in dorsal horn neural subcircuits</a>.  *PLoS Comput. Bio.*, 21(1): e1012234 (2025).
+* Ginsberg A.G., Lempka S.F., Duan B., Booth V., **Crodelle J**. <a href="https://doi.org/10.1371/journal.pcbi.1012234" target="_blank">Mechanisms for dysregulation of excitatory-inhibitory balance underlying allodynia in dorsal horn neural subcircuits</a>.  *PLoS Comput. Bio.*, 21(1): e1012234 (2025).
 
-* Du, X., **Crodelle, J** et al.  <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012318" target = "_blank"> Biophysical modeling and experimental analysis of the dynamics of C. elegans body-wall muscle cells</a>. * *PLoS Comput. Bio.*, 21(1): e1012318 (2025)
+* Du, X., **Crodelle, J.** et al.  <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012318" target = "_blank"> Biophysical modeling and experimental analysis of the dynamics of C. elegans body-wall muscle cells</a>.*PLoS Comput. Bio.*, 21(1): e1012318 (2025)
 
-* **Crodelle J**, Vanty C, Booth V. <a href="https://doi.org/10.3389/fnins.2023.1166203" target="_blank">Modeling homeostatic and circadian modulation of human pain sensitivity</a>. *Front. Neurosci.*, 17, 1166203 (2023).
+* **Crodelle J.**, Vanty C., Booth V. <a href="https://doi.org/10.3389/fnins.2023.1166203" target="_blank">Modeling homeostatic and circadian modulation of human pain sensitivity</a>. *Front. Neurosci.*, 17, 1166203 (2023).
 
 * **Crodelle, J.** and McLaughlin, D. W. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007915" target="_blank">Modeling the role of gap junctions between excitatory
 neurons in the developing visual cortex</a>. *PLoS Comput. Bio.*, 17(7): e1007915 (2021).
 
 * Epstein, J.M., Hatna, E., **Crodelle, J.**. <a href="https://doi.org/10.1098/rsif.2021.0186" target="_blank"> Triple contagion: a two-fears epidemic model</a> *J. of the Royal Soc. Inter.*, 18(181): 20210186 (2021).
 
-**(For a full list of publications, see my [CV](cv.pdf) or [Google Scholar](https://scholar.google.com).)**
+**(For a full list of publications, see my [CV](Jennifer_Crodelle_CV_2026.pdf) or [Google Scholar](https://scholar.google.com).)**
 
 ---
 
