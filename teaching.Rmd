@@ -1,0 +1,48 @@
+---
+title: "Teaching"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    css: style.css
+---
+
+As an applied mathematician, my goal in the classroom is to help students bridge the gap between abstract mathematical theory and real-world application. Whether we are exploring calculus, differential equations, or mathematical modeling, I emphasize active learning, building mathematical intuition through computer simulations, and breaking down complex phenomena into approachable pieces. I strive to foster an inclusive, collaborative environment where students feel empowered to experiment, question, and develop rigorous problem-solving skills.
+
+***
+
+## Courses Taught at Middlebury College
+
+* **MATH 0122: Calculus II** 
+    * Techniques of integration, improper integrals, applications of integrals, infinite series, Taylor's theorem, and polar coordinates.
+* **MATH 0200: Linear Algebra** 
+    * Matrices, systems of linear equations, vector spaces, independence, orthogonality, linear transformations, eigenvalues, and determinants.
+* **MATH 0226: Differential Equations** 
+    * Introduction to ordinary differential equations (ODEs) using analytical, qualitative, and numerical techniques, with integrated MATLAB programming.
+* **MATH 0228: Introduction to Numerical Analysis** 
+    * Development, analysis, and implementation of numerical methods for approximating solutions, interpolation, rootfinding, and numerical ODEs using MATLAB.
+* **MATH 0315: Mathematical Modeling** 
+    * Using discrete, continuous, and probabilistic approaches to model applications in population dynamics, epidemiology, and neuroscience.
+* **MATH 0326: Partial Differential Equations** 
+    * First and second-order linear PDEs, studying the Laplace, heat, and wave equations using analytical and numerical methods.
+
+***
+
+## Undergraduate Research & Mentorship
+
+Mentoring undergraduate researchers is a central and rewarding part of my work. I regularly involve undergraduate students in computational neuroscience and applied mathematics projects funded through grants like the MAA NREUP Award and institutional programs.
+
+**Are you a student interested in undergraduate research?**
+
+* Projects typically involve developing differential equation models, running computer simulations (e.g., in MATLAB or Python), and analyzing model-generated data related to neural dynamics or pain modulation.
+* Ideal background includes coursework in Differential Equations (MATH 0226) and some prior coding experience.
+* If you are a Middlebury student interested in research opportunities or senior thesis advising, please feel free to [reach out via email](index.html#contact) or drop by my office hours!
+
+***
+
+## Office Hours & Location
+
+* **Location:** Warner Hall 204, Middlebury College
+* **Contact:** `jcrodelle [at] middlebury [dot] edu`
+
+For current course office hours or to schedule an appointment, please check your course's syllabus page or contact me directly via email.

@@ -10,6 +10,8 @@ left:
   #   href: ./aboutMe.html
   - text: "Research"
     href: researchPage.html
+  - text: "Teaching"
+    href: teaching.html
   - text: "CV"          # <-- New tab name
     icon: fa-file-pdf-o    # <-- Optional: adds a neat PDF icon
     href: Jennifer_Crodelle_CV_2026.pdf        # <-- Points directly to your PDF file
