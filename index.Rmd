@@ -6,9 +6,10 @@ output:
     toc_float: true
 ---
 
+<img src="images/me_pic.png" style="float: right; width: 32%; max-width: 240px; margin-left: 20px; margin-bottom: 15px; border-radius: 4px;" alt="Dr. Jen Crodelle">
+
 ## About me
 
-<img src="images/me_flowers_med_hr.png" style="float: right; width: 32%; max-width: 240px; margin-left: 20px; margin-bottom: 15px; border-radius: 4px;" alt="Dr. Jen Crodelle">
 
 I am currently an **Assistant Professor of Mathematics** at Middlebury College, a small liberal arts school in Middlebury, VT. 
 
@@ -27,29 +28,43 @@ When not working on mathematical models, I enjoy reading and exploring the outdo
 
 ## Education
 
-* **Ph.D. in Mathematics**, Rensselaer Polytechnic Institute (RPI), 2017
-  * *Dissertation Advisors:* Dr. Gregor Kovačič and Dr. David Cai
 * **NSF Postdoctoral Fellow**, Courant Institute of Mathematical Sciences (NYU), 2017–2020
   * *Mentor:* Dr. David McLaughlin
+* **Ph.D. in Mathematics**, Rensselaer Polytechnic Institute (RPI), 2017
+  * *Dissertation Advisors:* Dr. Gregor Kovačič and Dr. David Cai
 * **B.S. in Applied Mathematics**, Marist College, 2012
 
 ---
 
 ## Grants & Funding
 
-* **NSF EPSCoR Research Fellowship** ($237,000) | *2026–Present*
+* **NSF EPSCoR Research Fellowship** ($237,000) | *2026–2027*
   * *Project:* Building Mechanistic Models for the Interaction of Tau Protein and Neuronal Voltage
-* **NIH R15 NCCIH Grant** ($540,000) | *2025–Present*
+* **NIH R15 NCCIH Grant** ($540,000) | *2025–2028*
   * *Project:* Modeling mechanisms of interindividual variation in pain modulation by spinal cord stimulation
+* **MAA NREUP Award** ($35,000) | *2025*
+  * *Project:* Mathematical Modeling in Neuroscience. This grant provided funds to hire four undergraduate summer research assistants.
+* **VBRN Project Award** ($150,000) | *2023-2025*
+  * *Project:* The role of inhibitory plasticity during development in the formation of orientation preference maps. 
 
 ---
 
 
 ## Selected Publications
 
-* **Crodelle J**, Dai WP. (2026). <a href="https://doi.org/10.1103/qr68-9vy9" target="_blank">Uncovering potential effects of spontaneous waves on synaptic development: The visual system as a model</a>. *PRX Life*.
-* **Ginsberg AG**, Lempka SF, Duan B, Booth V, **Crodelle J**. (2025). <a href="https://doi.org/10.1371/journal.pcbi.1012234" target="_blank">Mechanisms for dysregulation of excitatory-inhibitory balance underlying allodynia in dorsal horn neural subcircuits</a>. *PLOS Computational Biology*, 21(1): e1012234.
-* **Crodelle J**, Vanty C, Booth V. (2023). <a href="https://doi.org/10.3389/fnins.2023.1166203" target="_blank">Modeling homeostatic and circadian modulation of human pain sensitivity</a>. *Frontiers in Neuroscience*, 17, 1166203.
+
+* **Crodelle J**, Dai W.P. <a href="https://doi.org/10.1103/qr68-9vy9" target="_blank">Uncovering potential effects of spontaneous waves on synaptic development: The visual system as a model</a>. *PRX Life*, 4, 013022 (2026).
+
+* Ginsberg AG, Lempka SF, Duan B, Booth V, **Crodelle J**. <a href="https://doi.org/10.1371/journal.pcbi.1012234" target="_blank">Mechanisms for dysregulation of excitatory-inhibitory balance underlying allodynia in dorsal horn neural subcircuits</a>.  *PLoS Comput. Bio.*, 21(1): e1012234 (2025).
+
+* Du, X., **Crodelle, J** et al.  <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012318" target = "_blank"> Biophysical modeling and experimental analysis of the dynamics of C. elegans body-wall muscle cells</a>. * *PLoS Comput. Bio.*, 21(1): e1012318 (2025)
+
+* **Crodelle J**, Vanty C, Booth V. <a href="https://doi.org/10.3389/fnins.2023.1166203" target="_blank">Modeling homeostatic and circadian modulation of human pain sensitivity</a>. *Front. Neurosci.*, 17, 1166203 (2023).
+
+* **Crodelle, J.** and McLaughlin, D. W. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007915" target="_blank">Modeling the role of gap junctions between excitatory
+neurons in the developing visual cortex</a>. *PLoS Comput. Bio.*, 17(7): e1007915 (2021).
+
+* Epstein, J.M., Hatna, E., **Crodelle, J.**. <a href="https://doi.org/10.1098/rsif.2021.0186" target="_blank"> Triple contagion: a two-fears epidemic model</a> *J. of the Royal Soc. Inter.*, 18(181): 20210186 (2021).
 
 **(For a full list of publications, see my [CV](cv.pdf) or [Google Scholar](https://scholar.google.com).)**
 

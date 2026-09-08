@@ -22,3 +22,54 @@
   background-color: #012169; /* Replace with a color slightly darker than your main navbar */
   color: #ffffff;            /* The text color for the active button */
 }
+
+
+/* Card Container Styling */
+.project-tile {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  overflow: hidden;
+  text-decoration: none !important;
+  color: inherit;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-tile:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  color: inherit;
+}
+
+/* Media (Video & Images) Fitting */
+.card-media {
+  width: 100%;
+  height: 180px; /* Adjust height to match your desired tile proportions */
+  object-fit: cover; /* Prevents video/image distortion */
+  background-color: #f8fafc;
+  display: block;
+}
+
+/* Text Padding Inside Card */
+.tile-content {
+  padding: 20px;
+  text-align: center;
+}
+
+.tile-content h3 {
+  margin-top: 0;
+  color: #0284c7;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.tile-content p {
+  color: #475569;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-bottom: 0;
+}
