@@ -74,7 +74,7 @@ neurons in the developing visual cortex</a>. *PLoS Comput. Bio.*, 17(7): e100791
 
 * Epstein, J.M., Hatna, E., **Crodelle, J.**. <a href="https://doi.org/10.1098/rsif.2021.0186" target="_blank"> Triple contagion: a two-fears epidemic model</a> *J. of the Royal Soc. Inter.*, 18(181): 20210186 (2021).
 
-**(For a full list of publications, see my [CV](Jennifer_Crodelle_CV_2026.pdf) or [Google Scholar](https://scholar.google.com).)**
+**(For a full list of publications, see my [CV](Crodelle_CV_2026.pdf) or [Google Scholar](https://scholar.google.com).)**
 
 ---
 
