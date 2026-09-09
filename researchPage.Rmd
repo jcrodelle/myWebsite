@@ -76,7 +76,7 @@ I am interested in using **mathematical modeling** to explore problems in neuros
  <img src= "images/seizure_event.png" class="tile-image" alt="Pain Processing">
  
  
-<h3>Neurological Disease </h3>
+<h3>Neurological Disease Modeling </h3>
 <p>Investigating mechanisms underlying epileptic seizures and neuronal degeneration.</p>
 </a>
 </div>

@@ -10,9 +10,6 @@ output:
 
 ## About me
 
-
-I am currently an **Assistant Professor of Mathematics** at Middlebury College, a small liberal arts school in Middlebury, VT. 
-
 I am an applied mathematician interested in using mathematical modeling and computer simulation to explore problems in neuroscience and uncover plausible mechanisms underlying biologically observed phenomena. I have also worked on problems in epidemiology, criminal justice, and chronic pain.
 
 When not working on mathematical models, I enjoy reading and exploring the outdoors with my family! 
@@ -26,10 +23,16 @@ When not working on mathematical models, I enjoy reading and exploring the outdo
 
 <!-- --- -->
 
-## Education
+## Appointments
 
+* **Assistant Professor of Mathematics and Statistics**, Middlebury College, 2020-present
 * **NSF Postdoctoral Fellow**, Courant Institute of Mathematical Sciences (NYU), 2017–2020
   * *Mentor:* Dr. David McLaughlin
+  
+---
+
+## Education
+  
 * **Ph.D. in Mathematics**, Rensselaer Polytechnic Institute (RPI), 2017
   * *Dissertation Advisors:* Dr. Gregor Kovačič and Dr. David Cai
 * **B.S. in Applied Mathematics**, Marist College, 2012
@@ -38,14 +41,19 @@ When not working on mathematical models, I enjoy reading and exploring the outdo
 
 ## Grants & Funding
 
-* **NSF EPSCoR Research Fellowship** ($237,000) | *2026–2027*
-  * *Project:* Building Mechanistic Models for the Interaction of Tau Protein and Neuronal Voltage
-* **NIH R15 NCCIH Grant** ($540,000) | *2025–2028*
-  * *Project:* Modeling mechanisms of interindividual variation in pain modulation by spinal cord stimulation
-* **MAA NREUP Award** ($35,000) | *2025*
-  * *Project:* Mathematical Modeling in Neuroscience. This grant provided funds to hire four undergraduate summer research assistants.
-* **VBRN Project Award** ($150,000) | *2023-2025*
-  * *Project:* The role of inhibitory plasticity during development in the formation of orientation preference maps. 
+* **[NSF EPSCoR Research Fellowship](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2531428&HistoricalAwards=false)** ($237K) | *2026–2027*
+  * <u>Project title:</u> Building Mechanistic Models for the Interaction of Tau Protein and Neuronal Voltage
+  * *Some details:* This is a grant aimed at building a collaboration at the intersection of modeling neuron voltage dynamics and cellular transport using neurodegenerative diseases (tauopathies) as an application. See [Neurological Disease Modeling](neuroDiseaseProjects.html) page for more details.
+* **[NIH R15 NCCIH Grant](https://reporter.nih.gov/project-details/11232962)** ($540K) | *2025–2028*
+  * <u>Project title:</u> Modeling mechanisms of interindividual variation in pain modulation by spinal cord stimulation
+  * *Some details:* This is a collaborative grant with Co-I's at University of Michigan aimed at using mathematical modeling to predict mechanisms underlying the observed variability in pain relief experienced across patients using spinal cord stimulation. See [Pain Processing Dynamics](painProjects.html) page for more details.  
+  * Here is a story in the 
+* **[MAA NREUP Award](https://maa.org/resource/nreup/)** ($35K) | *2025*
+  * <u>Project title:</u> Mathematical Modeling in Neuroscience. This grant provided funds to hire four undergraduate summer research assistants.
+  * *Some details:* This award supported four undergraduate summer research assistants to investigate the bifurcation in firing patterns generated in different gap-junction-coupled neurons. 
+* **[VBRN Project Award](https://vbrn.org)** ($150K) | *2023-2025*
+  * <u>Project title:</u> The role of inhibitory plasticity during development in the formation of orientation preference maps. 
+  * *Some details:* This project aimed to understand how different inhibitory plasticity rules applied during development may affect the formation of the orientation-preference map in the adult mouse.
 
 ---
 

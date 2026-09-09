@@ -39,4 +39,4 @@ voltage changes to constrain the model.
 
 
 Read more: 
- <a href="https://doi.org/10.1371/journal.pcbi.1007915" target="_blank">Building mechanistic models for the interaction of tau protein and neuronal voltage</a>. NSF EPSCoR R(2026-2027)
+ <a href="https://doi.org/10.1371/journal.pcbi.1007915" target="_blank">Building mechanistic models for the interaction of tau protein and neuronal voltage</a>. NSF EPSCoR (2026-2027)
